@@ -18,10 +18,10 @@ This CloudFormation template provisions a **Virtual Private Cloud (VPC)** with m
   - Private subnets do not map public IPs
 
 
-## File Structure
+## Repository Structure
 
 ```bash
 .
 ├── My-VPC.yml              # CloudFormation template
+├── LICENSE                 # MIT License
 └── README.md               # Project documentation (this file)
-
