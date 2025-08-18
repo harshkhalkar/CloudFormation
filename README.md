@@ -25,3 +25,7 @@ This CloudFormation template provisions a **Virtual Private Cloud (VPC)** with m
 ├── My-VPC.yml              # CloudFormation template
 ├── LICENSE                 # MIT License
 └── README.md               # Project documentation (this file)
+```
+
+# Alternate Version
+> Looking for the same setup using Terraform? Check out this repo: [Terraform AWS VPC Module.](https://github.com/harshkhalkar/terraform-aws-vpc.git)
